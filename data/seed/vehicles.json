@@ -1,0 +1,557 @@
+[
+  {
+    "id": "honda-crv-vtis",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2026,
+    "trim": "VTi-S",
+    "edition": "2026-10 官網快照",
+    "body": "休旅車",
+    "specs": {
+      "price": {
+        "value": 999000,
+        "unit": "TWD",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "fuel": {
+        "value": 15,
+        "unit": "km/L",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "原廠實驗室測試值；實際油耗因路況而異。"
+      },
+      "displacement": {
+        "value": 1498,
+        "unit": "cc",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "powertrain": {
+        "value": "汽油渦輪",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "safety": {
+        "value": "Honda SENSING",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "infotainment": {
+        "value": "9 吋觸控螢幕",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "seats": {
+        "value": 5,
+        "unit": "人",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "原廠資料"
+      },
+      "dimensions": {
+        "value": "4690 × 1865 × 1680",
+        "unit": "mm",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "cargo": {
+        "value": null,
+        "unit": "L",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      },
+      "warranty": {
+        "value": null,
+        "unit": "",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      }
+    }
+  },
+  {
+    "id": "honda-crv-s",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2026,
+    "trim": "S",
+    "edition": "2026-10 官網快照",
+    "body": "休旅車",
+    "specs": {
+      "price": {
+        "value": 1099000,
+        "unit": "TWD",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "fuel": {
+        "value": 15,
+        "unit": "km/L",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "原廠實驗室測試值；實際油耗因路況而異。"
+      },
+      "displacement": {
+        "value": 1498,
+        "unit": "cc",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "powertrain": {
+        "value": "汽油渦輪",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "safety": {
+        "value": "Honda SENSING",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "infotainment": {
+        "value": "9 吋觸控螢幕",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "seats": {
+        "value": 5,
+        "unit": "人",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "原廠資料"
+      },
+      "dimensions": {
+        "value": "4690 × 1865 × 1680",
+        "unit": "mm",
+        "status": "verified",
+        "source_url": "https://www.honda-taiwan.com.tw/2026CR-V/index.html",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "cargo": {
+        "value": null,
+        "unit": "L",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      },
+      "warranty": {
+        "value": null,
+        "unit": "",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      }
+    }
+  },
+  {
+    "id": "toyota-rav4-luxury",
+    "brand": "TOYOTA",
+    "model": "RAV4",
+    "year": null,
+    "trim": "豪華",
+    "edition": "2026-10 官網快照",
+    "body": "休旅車",
+    "specs": {
+      "price": {
+        "value": 1040000,
+        "unit": "TWD",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/RAV4/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "fuel": {
+        "value": 24,
+        "unit": "km/L",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/RAV4/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "原廠實驗室測試值；實際油耗因路況而異。"
+      },
+      "displacement": {
+        "value": 2487,
+        "unit": "cc",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/RAV4/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "powertrain": {
+        "value": "油電複合",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/RAV4/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "safety": {
+        "value": "TSS 4.0",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/RAV4/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "infotainment": {
+        "value": "10.5 吋觸控螢幕",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/RAV4/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "seats": {
+        "value": 5,
+        "unit": "人",
+        "status": "verified",
+        "source_url": "https://newcar.u-car.com.tw/toyota/rav4/7143/spec",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "外部規格資料，購車前仍須向原廠確認。"
+      },
+      "dimensions": {
+        "value": "4600 × 1855 × 1680",
+        "unit": "mm",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/RAV4/fullsepc.aspx",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "cargo": {
+        "value": null,
+        "unit": "L",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      },
+      "warranty": {
+        "value": null,
+        "unit": "",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      }
+    }
+  },
+  {
+    "id": "toyota-cross-luxury",
+    "brand": "TOYOTA",
+    "model": "COROLLA CROSS",
+    "year": null,
+    "trim": "豪華",
+    "edition": "2026-10 官網快照",
+    "body": "休旅車",
+    "specs": {
+      "price": {
+        "value": 809000,
+        "unit": "TWD",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/COROLLA_CROSS/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "fuel": {
+        "value": 14.3,
+        "unit": "km/L",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/COROLLA_CROSS/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "原廠實驗室測試值；實際油耗因路況而異。"
+      },
+      "displacement": {
+        "value": 1798,
+        "unit": "cc",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/COROLLA_CROSS/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "powertrain": {
+        "value": "汽油",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/COROLLA_CROSS/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "safety": {
+        "value": "TSS 2.0",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/COROLLA_CROSS/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "infotainment": {
+        "value": "9 吋觸控螢幕",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/COROLLA_CROSS/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "seats": {
+        "value": 5,
+        "unit": "人",
+        "status": "verified",
+        "source_url": "https://newcar.u-car.com.tw/Toyota/Corolla%20Cross/7183/spec",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "外部規格資料，購車前仍須向原廠確認。"
+      },
+      "dimensions": {
+        "value": null,
+        "unit": "mm",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      },
+      "cargo": {
+        "value": null,
+        "unit": "L",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      },
+      "warranty": {
+        "value": null,
+        "unit": "",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      }
+    }
+  },
+  {
+    "id": "toyota-camry-prestige",
+    "brand": "TOYOTA",
+    "model": "CAMRY",
+    "year": null,
+    "trim": "尊爵",
+    "edition": "2026-10 官網快照",
+    "body": "轎車",
+    "specs": {
+      "price": {
+        "value": 1009000,
+        "unit": "TWD",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/CAMRY/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "fuel": {
+        "value": 16.3,
+        "unit": "km/L",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/CAMRY/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "原廠實驗室測試值；實際油耗因路況而異。"
+      },
+      "displacement": {
+        "value": 1987,
+        "unit": "cc",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/CAMRY/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "powertrain": {
+        "value": "汽油",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/CAMRY/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "safety": {
+        "value": "TSS 3.0",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/CAMRY/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "infotainment": {
+        "value": "8 吋觸控螢幕",
+        "unit": "",
+        "status": "verified",
+        "source_url": "https://www.toyota.com.tw/showroom/CAMRY/",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": ""
+      },
+      "seats": {
+        "value": 5,
+        "unit": "人",
+        "status": "verified",
+        "source_url": "https://cars.tvbs.com.tw/spec/toyota/2026-toyota-camry",
+        "retrieved_at": "2026-10-13",
+        "verified_at": "2026-10-13",
+        "market": "TW",
+        "note": "外部規格資料，購車前仍須向原廠確認。"
+      },
+      "dimensions": {
+        "value": null,
+        "unit": "mm",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      },
+      "cargo": {
+        "value": null,
+        "unit": "L",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      },
+      "warranty": {
+        "value": null,
+        "unit": "",
+        "status": "missing",
+        "source_url": null,
+        "retrieved_at": null,
+        "verified_at": null,
+        "market": "TW",
+        "note": ""
+      }
+    }
+  }
+]

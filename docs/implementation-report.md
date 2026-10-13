@@ -39,6 +39,8 @@ emulation is not verification on physical iOS Safari.
 
 Screenshots are generated under ignored `artifacts/`: home-desktop.png,
 home-mobile.png, compare-desktop.png and compare-mobile.png.
+The reviewed desktop homepage and comparison captures are also committed under
+`docs/screenshots/` and embedded at the top of README.md for GitHub viewing.
 
 ## Partial / unverified
 

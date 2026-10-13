@@ -5,6 +5,22 @@ An independent, Traditional Chinese vehicle comparison MVP for Taiwan. **Not an
 compare up to three TOYOTA alternatives, explore deterministic recommendations,
 and estimate five-year ownership costs. No AI key or customer data is required.
 
+## Application screenshots
+
+Actual screenshots of the working Cycle 1 application. Click an image to view it
+at full resolution.
+
+**Homepage — choose your current vehicle and start exploring.**
+
+[![DriveMatch homepage with vehicle selection and links to comparison, matching and ownership costs](docs/screenshots/home-desktop.png)](docs/screenshots/home-desktop.png)
+
+<details>
+<summary>Vehicle comparison — Honda CR-V, TOYOTA RAV4 and COROLLA CROSS</summary>
+
+[![Working vehicle comparison with brand, model, year and trim selectors, specifications and source links](docs/screenshots/compare-desktop.png)](docs/screenshots/compare-desktop.png)
+
+</details>
+
 Treat `docs/requirements.md` and `docs/architecture.md` as the project's source of truth. Before changing implementation details, inspect the existing codebase, preserve working functionality, and update the relevant documentation whenever requirements or architecture change.
 
 ## Run locally

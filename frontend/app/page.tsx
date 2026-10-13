@@ -1,9 +1,9 @@
 "use client";
 import Link from "next/link";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useCatalog, CatalogStatus } from "@/components/Store";
 import Selector from "@/components/Selector";
-import VehicleArt from "@/components/VehicleArt";
 export default function Home() {
   const { vehicles, current, setCurrent, setSelected } = useCatalog();
   const router = useRouter();
@@ -37,7 +37,7 @@ export default function Home() {
         </div>
         <div className="hero-visual">
           <div className="visual-top">
-            <span>YOUR NEXT CHAPTER</span>
+            <span>TOYOTA bZ4X</span>
             <span>↗</span>
           </div>
           <div className="road">
@@ -46,7 +46,14 @@ export default function Home() {
             <div />
           </div>
           <div className="hero-car">
-            <VehicleArt color="#90a19d" />
+            <Image
+              src="/images/toyota-bz4x.png"
+              alt="TOYOTA bZ4X 銀色純電休旅車側面原廠展示圖"
+              width={540}
+              height={187}
+              loading="eager"
+              unoptimized
+            />
           </div>
           <div className="visual-caption">
             <span>
@@ -54,9 +61,16 @@ export default function Home() {
               <br />
               <strong>也比較生活的可能。</strong>
             </span>
-            <span className="visual-index">01 / 03</span>
+            <span className="visual-index">PURE ELECTRIC</span>
           </div>
-          <small className="art-note">概念車型插畫 · 非實車</small>
+          <a
+            className="art-note"
+            href="https://www.toyota.com.tw/showroom/bZ4X/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            bZ4X 展示車圖 · 圖片來源：TOYOTA 台灣 ↗
+          </a>
         </div>
       </section>
       <section className="start-section wrap" id="start">

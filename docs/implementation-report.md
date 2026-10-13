@@ -62,3 +62,11 @@ Docker/PostgreSQL integration. Only then add the Cycle 2 service companion,
 synthetic appointments, Smart Lounge, grounded RAG and optional LINE integration.
 Agent context, bounded loops, traceability, evaluation and guardrail requirements
 are specified in architecture.md; no LLM service is represented as implemented.
+
+## bZ4X demonstration imagery update
+
+The homepage now displays the source-attributed TOYOTA Taiwan bZ4X image at the
+user's request. The committed README homepage capture was regenerated from the
+production build. Frontend type checking, production build and the two existing
+desktop/mobile homepage browser checks passed. Both viewport captures were
+visually inspected. This imagery change does not add EV catalog or TCO support.

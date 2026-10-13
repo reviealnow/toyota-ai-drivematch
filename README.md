@@ -10,9 +10,11 @@ and estimate five-year ownership costs. No AI key or customer data is required.
 Actual screenshots of the working Cycle 1 application. Click an image to view it
 at full resolution.
 
-**Homepage — choose your current vehicle and start exploring.**
+**Homepage — featuring TOYOTA bZ4X; choose your current vehicle and start exploring.**
 
-[![DriveMatch homepage with vehicle selection and links to comparison, matching and ownership costs](docs/screenshots/home-desktop.png)](docs/screenshots/home-desktop.png)
+[![DriveMatch homepage featuring a TOYOTA bZ4X vehicle image, vehicle selection and exploration tools](docs/screenshots/home-desktop.png)](docs/screenshots/home-desktop.png)
+
+bZ4X display image: [TOYOTA Taiwan](https://www.toyota.com.tw/showroom/bZ4X/).
 
 <details>
 <summary>Vehicle comparison — Honda CR-V, TOYOTA RAV4 and COROLLA CROSS</summary>

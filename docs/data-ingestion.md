@@ -2,8 +2,10 @@
 
 The bundled file is a manually transcribed, limited factual snapshot, not a
 scraper output. Sources were read on 2026-10-13. Reference navigation patterns
-were reviewed on Apple's comparison page; no protected visual assets were copied.
-Vehicle illustrations are original generic SVG schematics, labeled as such.
+were reviewed on Apple's comparison page; no Apple visual assets were copied.
+Comparison illustrations are original generic SVG schematics, labeled as such.
+At the user's request, the homepage features the manufacturer-provided bZ4X
+display image. See `frontend/public/images/README.md` for its source attribution.
 
 Official sources:
 - https://www.honda-taiwan.com.tw/2026CR-V/index.html — VTi-S and S prices,

@@ -12,6 +12,8 @@ public hosting is a later decision.
 - P0: working homepage/navigation; manufacturer/model/year/trim selection;
   current vehicle plus zero to three distinct TOYOTA trims; change/remove columns;
   category filtering and difference highlighting; source/status/date visibility.
+- Homepage demonstration imagery features TOYOTA bZ4X, with manufacturer image
+  attribution. This visual request does not add an EV catalog or EV TCO model.
 - P0: preference wizard with budget, usage, seats, priority, mileage and current
   vehicle; deterministic, explainable top-three models; strict eligibility and
   explicitly ineligible alternatives when no match exists.

@@ -325,9 +325,17 @@ small {
 .hero-car {
   position: absolute;
   width: 92%;
-  top: 90px;
+  top: 75px;
+  bottom: 115px;
   left: 4%;
-  transform: rotate(-7deg);
+  display: flex;
+  align-items: center;
+}
+.hero-car img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
 }
 .vehicle-art {
   width: 100%;
@@ -1184,7 +1192,10 @@ footer a {
   }
   .hero-car {
     width: 100%;
-    top: 50px;
+    top: 60px;
+    bottom: 105px;
+    left: 0;
+    padding: 0 14px;
   }
   .hero-notes {
     margin-top: 25px;
@@ -1199,6 +1210,9 @@ footer a {
   }
   .hero-visual .visual-caption {
     bottom: 39px;
+  }
+  .hero-visual .visual-index {
+    display: none;
   }
   .visual-caption strong {
     font-size: 21px;
